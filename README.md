@@ -2,9 +2,9 @@
 
 ## How do I install these formulae?
 
-`brew install local/less/<formula>`
+- clone repo into `/opt/homebrew/Library/Taps/local/`
+- run `brew install local/less/less`
 
-Or `brew tap local/less` and then `brew install <formula>`.
 
 ## Documentation
 
